@@ -15,7 +15,7 @@ A high-performance, flash-loan-integrated MEV (Maximal Extractable Value) arbitr
 
 ---
 
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NCBU5H7T0uyT9J3LZjqICjvsn9WTWVkAwQ&s)
+![Screenshot](https://i.ytimg.com/vi/8sUnuh3rr2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCaUi-nScXMCQZQD5ylR51o4wQXCA)
 
 
 ## Overview
